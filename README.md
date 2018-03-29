@@ -3,7 +3,7 @@ This repository includes four datasets that can be used to train and evaluate ch
 The datasets are very diverse and should cover a wide range of linguistic characteristics.
 
 If you use any of these datasets in your research, please cite:
-> De Boom C., Demeester T., Dhoedt B.: "Character-level Recurrent Neural Networks in Practice: Comparing Training and Sampling Schemes". Neural Computing and Applications (2018). To appear.
+> De Boom C., Demeester T., Dhoedt B.: "Character-level Recurrent Neural Networks in Practice: Comparing Training and Sampling Schemes". Neural Computing and Applications (2018).
 
 ## Dataset details
 * __English__: we compiled all plays by William Shakespeare from Project Gutenberg in one dataset. The plays follow each other in random order. The total number of characters is 6,347,705 with 85 unique characters.
